@@ -1,0 +1,6 @@
+//Normal install
+npm install
+npm i
+
+//Install Legacy Dependencies
+npm install --legacy-peer-deps
