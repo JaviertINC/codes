@@ -1,0 +1,6 @@
+//Normal push
+git push origin {BRANCH_NAME}
+
+//Force
+git push origin {BRANCH_NAME} --force
+git push origin {BRANCH_NAME} -f

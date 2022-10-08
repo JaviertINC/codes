@@ -1,0 +1,8 @@
+//Add Normal (especific files)
+git add {FILE_PATH}
+
+//Add all modified files
+git add .
+
+//Add especific folder files
+git add {FOLDER_PATH}/*
