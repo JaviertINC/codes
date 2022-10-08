@@ -1,0 +1,5 @@
+//Normal
+git clone {URL_PROJECT}
+
+//Especific Branch
+git clone --branch {BRANCH_NAME} {URL_PROJECT}
