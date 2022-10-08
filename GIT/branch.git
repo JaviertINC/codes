@@ -1,0 +1,5 @@
+//Eliminar una rama en un repositorio local
+git branch -d {NOMBRE_RAMA}
+
+//Forzar eliminación de una rama en repositorio local
+git branch -D {NOMBRE_RAMA}
