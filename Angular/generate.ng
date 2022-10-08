@@ -1,0 +1,11 @@
+//Generar archivos para un componente
+ng generate component {PATH}/{NAME}
+ng g c {PATH}/{NAME}
+
+//Generar archivos para un servicio
+ng generate service {PATH}/{NAME}
+ng g s {PATH}/{NAME}
+
+//Generar archivos para una interfaz
+ng generate interface {PATH}/{NAME}
+ng g i {PATH}/{NAME}
